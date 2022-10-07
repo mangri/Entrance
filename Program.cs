@@ -104,7 +104,6 @@ namespace Entrance
                 Console.WriteLine(gateOutput);
 
             }
-
         }
     }
 }

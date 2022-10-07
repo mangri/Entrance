@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entrance.Models
+namespace Entrance.OtherDataTypes
 {
     public class AllPassesItems
     {
@@ -12,7 +12,7 @@ namespace Entrance.Models
         public string PassingTime { get; set; }
         public string PassedThrough { get; set; }
         public int TotalAttempts { get; set; }
-        public AllPassesItems(string id, string passingTime, 
+        public AllPassesItems(string id, string passingTime,
             string passedThrough, int totalAttempts)
         {
             ID = id;
@@ -22,4 +22,4 @@ namespace Entrance.Models
         }
     }
 }
- 
+

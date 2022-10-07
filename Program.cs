@@ -4,11 +4,11 @@ using System.IO;
 using System.Security.Cryptography.X509Certificates;
 using Entrance.Repositories;
 using Entrance.Services;
-using Entrance.Models;
 using static System.Net.WebRequestMethods;
 using System.Text;
 using System.Globalization;
 using System.Threading;
+using Entrance.OtherDataTypes;
 
 namespace Entrance
 {

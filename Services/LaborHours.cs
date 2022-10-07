@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Entrance.Models;
+using Entrance.OtherDataTypes;
 using Entrance.Repositories;
 
 namespace Entrance.Services
